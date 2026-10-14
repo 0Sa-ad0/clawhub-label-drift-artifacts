@@ -1,0 +1,30 @@
+{
+ "rq1_steps": {
+  "steps": 1434084,
+  "content_changed": 229627,
+  "verdict_changed_same_content": 166,
+  "model_changed_same_content": 56079,
+  "static_changed_same_content": 0,
+  "vt_changed_same_content": 16,
+  "ss_changed_same_content": 26800
+ },
+ "rq1_versions": {
+  "versions_multi": 96693,
+  "unchanged_content": 18771,
+  "unchanged_verdict_changed": 30,
+  "unchanged_static_changed": 0,
+  "unchanged_vt_changed": 6,
+  "unchanged_ss_changed": 3230,
+  "unchanged_ever_flagged": 51,
+  "unchanged_flagged_and_changed": 21
+ },
+ "rq2": {
+  "later_flagged_any": 26483,
+  "later_verdict": 8,
+  "later_static": 0,
+  "later_vt": 1,
+  "later_ss": 26482,
+  "scanner_before_verdict": 7,
+  "verdict_first_or_alone": 0
+ }
+}

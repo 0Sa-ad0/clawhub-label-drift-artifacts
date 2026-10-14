@@ -1,0 +1,6 @@
+from_verdict,to_verdict,n,with_model_change
+suspicious,clean,103,83.0
+clean,suspicious,30,0.0
+unknown,clean,20,15.0
+clean,unknown,12,0.0
+malicious,clean,1,0.0

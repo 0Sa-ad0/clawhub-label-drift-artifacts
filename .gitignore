@@ -1,0 +1,5 @@
+data/panel.parquet
+data/texts.parquet
+data/.duckdb_tmp/
+work/
+__pycache__/

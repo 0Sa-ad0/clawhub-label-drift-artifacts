@@ -1,0 +1,1 @@
+{"source": "verdict", "seed": 0, "sizes": {"train": 92323, "valid": 3995, "test": 8692}, "test": {"n": 8692, "pos": 17, "pos_rate": 0.001955821445006903, "roc_auc": 0.6762637735209358, "pr_auc": 0.0038250415876548245, "f1": 0.0, "precision": 0.0, "recall": 0.0, "accuracy": 0.9974689369535205}, "threshold": 0.03676946461200714}
